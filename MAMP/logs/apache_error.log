@@ -1,0 +1,117 @@
+[Wed Jun 23 11:19:27 2021] [notice] caught SIGTERM, shutting down
+[Wed Jun 23 11:20:05 2021] [notice] Digest: generating secret for digest authentication ...
+[Wed Jun 23 11:20:05 2021] [notice] Digest: done
+[Wed Jun 23 11:20:05 2021] [notice] FastCGI: process manager initialized (pid 68373)
+[Wed Jun 23 11:20:05 2021] [notice] Apache/2.2.34 (Unix) mod_wsgi/3.5 Python/2.7.13 PHP/5.6.40 mod_ssl/2.2.34 OpenSSL/1.0.2o DAV/2 mod_fastcgi/mod_fastcgi-SNAP-0910052141 mod_perl/2.0.11 Perl/v5.24.0 configured -- resuming normal operations
+[Wed Jun 23 16:29:01 2021] [notice] caught SIGTERM, shutting down
+[Wed Jun 23 16:29:08 2021] [notice] Digest: generating secret for digest authentication ...
+[Wed Jun 23 16:29:08 2021] [notice] Digest: done
+[Wed Jun 23 16:29:08 2021] [notice] FastCGI: process manager initialized (pid 70034)
+[Wed Jun 23 16:29:08 2021] [notice] Apache/2.2.34 (Unix) mod_wsgi/3.5 Python/2.7.13 PHP/7.4.2 mod_ssl/2.2.34 OpenSSL/1.0.2o DAV/2 mod_fastcgi/mod_fastcgi-SNAP-0910052141 mod_perl/2.0.11 Perl/v5.24.0 configured -- resuming normal operations
+[Wed Jun 23 16:35:20 2021] [notice] caught SIGTERM, shutting down
+[Wed Jun 23 16:37:37 2021] [notice] Digest: generating secret for digest authentication ...
+[Wed Jun 23 16:37:37 2021] [notice] Digest: done
+[Wed Jun 23 16:37:37 2021] [notice] FastCGI: process manager initialized (pid 72123)
+[Wed Jun 23 16:37:37 2021] [notice] Apache/2.2.34 (Unix) mod_wsgi/3.5 Python/2.7.13 PHP/7.4.2 mod_ssl/2.2.34 OpenSSL/1.0.2o DAV/2 mod_fastcgi/mod_fastcgi-SNAP-0910052141 mod_perl/2.0.11 Perl/v5.24.0 configured -- resuming normal operations
+[Wed Jun 23 16:38:01 2021] [error] [client ::1] client denied by server configuration: /Applications/MAMP/htdocs/wp_bk/wp-login.php
+[Wed Jun 23 16:40:11 2021] [notice] caught SIGTERM, shutting down
+[Wed Jun 23 16:40:30 2021] [notice] Digest: generating secret for digest authentication ...
+[Wed Jun 23 16:40:30 2021] [notice] Digest: done
+[Wed Jun 23 16:40:30 2021] [notice] FastCGI: process manager initialized (pid 72636)
+[Wed Jun 23 16:40:30 2021] [notice] Apache/2.2.34 (Unix) mod_wsgi/3.5 Python/2.7.13 PHP/5.6.40 mod_ssl/2.2.34 OpenSSL/1.0.2o DAV/2 mod_fastcgi/mod_fastcgi-SNAP-0910052141 mod_perl/2.0.11 Perl/v5.24.0 configured -- resuming normal operations
+[Wed Jun 23 16:44:19 2021] [notice] caught SIGTERM, shutting down
+[Wed Jun 23 16:44:33 2021] [notice] Digest: generating secret for digest authentication ...
+[Wed Jun 23 16:44:33 2021] [notice] Digest: done
+[Wed Jun 23 16:44:33 2021] [notice] FastCGI: process manager initialized (pid 73101)
+[Wed Jun 23 16:44:33 2021] [notice] Apache/2.2.34 (Unix) mod_wsgi/3.5 Python/2.7.13 PHP/5.6.40 mod_ssl/2.2.34 OpenSSL/1.0.2o DAV/2 mod_fastcgi/mod_fastcgi-SNAP-0910052141 mod_perl/2.0.11 Perl/v5.24.0 configured -- resuming normal operations
+[Wed Jun 23 17:08:50 2021] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/wp/contact, referer: http://localhost:8888/wp/
+[Wed Jun 23 17:08:54 2021] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/wp/column, referer: http://localhost:8888/wp/
+[Wed Jun 23 17:08:59 2021] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/wp/contact, referer: http://localhost:8888/wp/
+[Wed Jun 23 17:09:03 2021] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/wp/column, referer: http://localhost:8888/wp/
+[Wed Jun 23 17:20:24 2021] [error] [client ::1] client denied by server configuration: /Applications/MAMP/htdocs/wp_bk/wp-login.php
+[Wed Jun 23 17:42:05 2021] [notice] caught SIGTERM, shutting down
+[Wed Jun 23 17:42:16 2021] [notice] Digest: generating secret for digest authentication ...
+[Wed Jun 23 17:42:16 2021] [notice] Digest: done
+[Wed Jun 23 17:42:16 2021] [notice] FastCGI: process manager initialized (pid 75048)
+[Wed Jun 23 17:42:16 2021] [notice] Apache/2.2.34 (Unix) mod_wsgi/3.5 Python/2.7.13 PHP/5.6.40 mod_ssl/2.2.34 OpenSSL/1.0.2o DAV/2 mod_fastcgi/mod_fastcgi-SNAP-0910052141 mod_perl/2.0.11 Perl/v5.24.0 configured -- resuming normal operations
+[Wed Jun 23 17:45:50 2021] [notice] caught SIGTERM, shutting down
+[Wed Jun 23 17:46:02 2021] [notice] Digest: generating secret for digest authentication ...
+[Wed Jun 23 17:46:02 2021] [notice] Digest: done
+[Wed Jun 23 17:46:02 2021] [notice] FastCGI: process manager initialized (pid 75450)
+[Wed Jun 23 17:46:02 2021] [notice] Apache/2.2.34 (Unix) mod_wsgi/3.5 Python/2.7.13 PHP/5.6.40 mod_ssl/2.2.34 OpenSSL/1.0.2o DAV/2 mod_fastcgi/mod_fastcgi-SNAP-0910052141 mod_perl/2.0.11 Perl/v5.24.0 configured -- resuming normal operations
+[Wed Jun 23 17:46:48 2021] [notice] caught SIGTERM, shutting down
+[Wed Jun 23 17:47:07 2021] [notice] Digest: generating secret for digest authentication ...
+[Wed Jun 23 17:47:07 2021] [notice] Digest: done
+[Wed Jun 23 17:47:07 2021] [notice] FastCGI: process manager initialized (pid 75745)
+[Wed Jun 23 17:47:07 2021] [notice] Apache/2.2.34 (Unix) mod_wsgi/3.5 Python/2.7.13 PHP/5.6.40 mod_ssl/2.2.34 OpenSSL/1.0.2o DAV/2 mod_fastcgi/mod_fastcgi-SNAP-0910052141 mod_perl/2.0.11 Perl/v5.24.0 configured -- resuming normal operations
+[Wed Jun 23 17:48:29 2021] [notice] caught SIGTERM, shutting down
+[Wed Jun 23 17:48:41 2021] [notice] Digest: generating secret for digest authentication ...
+[Wed Jun 23 17:48:41 2021] [notice] Digest: done
+[Wed Jun 23 17:48:41 2021] [notice] FastCGI: process manager initialized (pid 76153)
+[Wed Jun 23 17:48:41 2021] [notice] Apache/2.2.34 (Unix) mod_wsgi/3.5 Python/2.7.13 PHP/5.6.40 mod_ssl/2.2.34 OpenSSL/1.0.2o DAV/2 mod_fastcgi/mod_fastcgi-SNAP-0910052141 mod_perl/2.0.11 Perl/v5.24.0 configured -- resuming normal operations
+[Wed Jun 23 18:06:28 2021] [notice] caught SIGTERM, shutting down
+[Wed Jun 23 18:06:48 2021] [notice] Digest: generating secret for digest authentication ...
+[Wed Jun 23 18:06:48 2021] [notice] Digest: done
+[Wed Jun 23 18:06:48 2021] [notice] FastCGI: process manager initialized (pid 76885)
+[Wed Jun 23 18:06:48 2021] [notice] Apache/2.2.34 (Unix) mod_wsgi/3.5 Python/2.7.13 PHP/7.4.2 mod_ssl/2.2.34 OpenSSL/1.0.2o DAV/2 mod_fastcgi/mod_fastcgi-SNAP-0910052141 mod_perl/2.0.11 Perl/v5.24.0 configured -- resuming normal operations
+[Wed Jun 23 18:07:29 2021] [notice] caught SIGTERM, shutting down
+[Wed Jun 23 18:07:47 2021] [notice] Digest: generating secret for digest authentication ...
+[Wed Jun 23 18:07:47 2021] [notice] Digest: done
+[Wed Jun 23 18:07:47 2021] [notice] FastCGI: process manager initialized (pid 77179)
+[Wed Jun 23 18:07:47 2021] [notice] Apache/2.2.34 (Unix) mod_wsgi/3.5 Python/2.7.13 PHP/7.4.2 mod_ssl/2.2.34 OpenSSL/1.0.2o DAV/2 mod_fastcgi/mod_fastcgi-SNAP-0910052141 mod_perl/2.0.11 Perl/v5.24.0 configured -- resuming normal operations
+[Wed Jun 23 18:09:04 2021] [notice] caught SIGTERM, shutting down
+[Wed Jun 23 18:09:11 2021] [notice] Digest: generating secret for digest authentication ...
+[Wed Jun 23 18:09:11 2021] [notice] Digest: done
+[Wed Jun 23 18:09:11 2021] [notice] FastCGI: process manager initialized (pid 77444)
+[Wed Jun 23 18:09:11 2021] [notice] Apache/2.2.34 (Unix) mod_wsgi/3.5 Python/2.7.13 PHP/5.6.40 mod_ssl/2.2.34 OpenSSL/1.0.2o DAV/2 mod_fastcgi/mod_fastcgi-SNAP-0910052141 mod_perl/2.0.11 Perl/v5.24.0 configured -- resuming normal operations
+[Wed Jun 23 18:09:14 2021] [notice] caught SIGTERM, shutting down
+[Wed Jun 23 18:11:21 2021] [notice] Digest: generating secret for digest authentication ...
+[Wed Jun 23 18:11:21 2021] [notice] Digest: done
+[Wed Jun 23 18:11:21 2021] [notice] FastCGI: process manager initialized (pid 77752)
+[Wed Jun 23 18:11:21 2021] [notice] Apache/2.2.34 (Unix) mod_wsgi/3.5 Python/2.7.13 PHP/5.6.40 mod_ssl/2.2.34 OpenSSL/1.0.2o DAV/2 mod_fastcgi/mod_fastcgi-SNAP-0910052141 mod_perl/2.0.11 Perl/v5.24.0 configured -- resuming normal operations
+[Wed Jun 23 18:12:09 2021] [notice] caught SIGTERM, shutting down
+[Wed Jun 23 18:12:27 2021] [notice] Digest: generating secret for digest authentication ...
+[Wed Jun 23 18:12:27 2021] [notice] Digest: done
+[Wed Jun 23 18:12:27 2021] [notice] FastCGI: process manager initialized (pid 78282)
+[Wed Jun 23 18:12:27 2021] [notice] Apache/2.2.34 (Unix) mod_wsgi/3.5 Python/2.7.13 PHP/5.6.40 mod_ssl/2.2.34 OpenSSL/1.0.2o DAV/2 mod_fastcgi/mod_fastcgi-SNAP-0910052141 mod_perl/2.0.11 Perl/v5.24.0 configured -- resuming normal operations
+[Wed Jun 23 18:13:36 2021] [error] [client ::1] client denied by server configuration: /Applications/MAMP/htdocs/wp_bk/wp-login.php
+[Wed Jun 23 18:15:08 2021] [notice] caught SIGTERM, shutting down
+[Wed Jun 23 18:15:37 2021] [notice] Digest: generating secret for digest authentication ...
+[Wed Jun 23 18:15:37 2021] [notice] Digest: done
+[Wed Jun 23 18:15:37 2021] [notice] FastCGI: process manager initialized (pid 78769)
+[Wed Jun 23 18:15:37 2021] [notice] Apache/2.2.34 (Unix) mod_wsgi/3.5 Python/2.7.13 PHP/7.4.2 mod_ssl/2.2.34 OpenSSL/1.0.2o DAV/2 mod_fastcgi/mod_fastcgi-SNAP-0910052141 mod_perl/2.0.11 Perl/v5.24.0 configured -- resuming normal operations
+[Wed Jun 23 18:23:53 2021] [notice] caught SIGTERM, shutting down
+[Wed Jun 23 18:24:07 2021] [notice] Digest: generating secret for digest authentication ...
+[Wed Jun 23 18:24:07 2021] [notice] Digest: done
+[Wed Jun 23 18:24:07 2021] [notice] FastCGI: process manager initialized (pid 79471)
+[Wed Jun 23 18:24:07 2021] [notice] Apache/2.2.34 (Unix) mod_wsgi/3.5 Python/2.7.13 PHP/7.4.2 mod_ssl/2.2.34 OpenSSL/1.0.2o DAV/2 mod_fastcgi/mod_fastcgi-SNAP-0910052141 mod_perl/2.0.11 Perl/v5.24.0 configured -- resuming normal operations
+[Wed Jun 23 18:25:07 2021] [notice] caught SIGTERM, shutting down
+[Wed Jun 23 18:25:23 2021] [notice] Digest: generating secret for digest authentication ...
+[Wed Jun 23 18:25:23 2021] [notice] Digest: done
+[Wed Jun 23 18:25:23 2021] [notice] FastCGI: process manager initialized (pid 79769)
+[Wed Jun 23 18:25:23 2021] [notice] Apache/2.2.34 (Unix) mod_wsgi/3.5 Python/2.7.13 PHP/7.4.2 mod_ssl/2.2.34 OpenSSL/1.0.2o DAV/2 mod_fastcgi/mod_fastcgi-SNAP-0910052141 mod_perl/2.0.11 Perl/v5.24.0 configured -- resuming normal operations
+[Thu Jun 24 20:57:21 2021] [notice] caught SIGTERM, shutting down
+[Thu Jun 24 20:57:48 2021] [notice] Digest: generating secret for digest authentication ...
+[Thu Jun 24 20:57:48 2021] [notice] Digest: done
+[Thu Jun 24 20:57:48 2021] [notice] FastCGI: process manager initialized (pid 81152)
+[Thu Jun 24 20:57:48 2021] [notice] Apache/2.2.34 (Unix) mod_wsgi/3.5 Python/2.7.13 PHP/7.4.2 mod_ssl/2.2.34 OpenSSL/1.0.2o DAV/2 mod_fastcgi/mod_fastcgi-SNAP-0910052141 mod_perl/2.0.11 Perl/v5.24.0 configured -- resuming normal operations
+[Thu Jun 24 20:58:50 2021] [notice] caught SIGTERM, shutting down
+[Thu Jun 24 21:24:19 2021] [notice] Digest: generating secret for digest authentication ...
+[Thu Jun 24 21:24:19 2021] [notice] Digest: done
+[Thu Jun 24 21:24:19 2021] [notice] FastCGI: process manager initialized (pid 81975)
+[Thu Jun 24 21:24:19 2021] [notice] Apache/2.2.34 (Unix) mod_wsgi/3.5 Python/2.7.13 PHP/7.4.2 mod_ssl/2.2.34 OpenSSL/1.0.2o DAV/2 mod_fastcgi/mod_fastcgi-SNAP-0910052141 mod_perl/2.0.11 Perl/v5.24.0 configured -- resuming normal operations
+[Thu Jun 24 22:28:27 2021] [error] [client ::1] client denied by server configuration: /Applications/MAMP/htdocs/wp_bk/wp-cron.php, referer: http://localhost:8888/wp_bk/wp-cron.php?doing_wp_cron=1624541307.9322760105133056640625
+[Thu Jun 24 22:33:50 2021] [error] [client ::1] client denied by server configuration: /Applications/MAMP/htdocs/wp_bk/wp-cron.php, referer: http://localhost:8888/wp_bk/wp-cron.php?doing_wp_cron=1624541630.1889040470123291015625
+[Thu Jun 24 22:34:09 2021] [error] [client ::1] client denied by server configuration: /Applications/MAMP/htdocs/wp_bk/wp-login.php
+[Thu Jul 01 21:12:12 2021] [notice] Digest: generating secret for digest authentication ...
+[Thu Jul 01 21:12:12 2021] [notice] Digest: done
+[Thu Jul 01 21:12:12 2021] [notice] FastCGI: process manager initialized (pid 41445)
+[Thu Jul 01 21:12:12 2021] [notice] Apache/2.2.34 (Unix) mod_wsgi/3.5 Python/2.7.13 PHP/7.4.2 mod_ssl/2.2.34 OpenSSL/1.0.2o DAV/2 mod_fastcgi/mod_fastcgi-SNAP-0910052141 mod_perl/2.0.11 Perl/v5.24.0 configured -- resuming normal operations
+[Thu Jul 01 21:12:49 2021] [notice] caught SIGTERM, shutting down
+[Thu Jul 01 21:12:55 2021] [notice] Digest: generating secret for digest authentication ...
+[Thu Jul 01 21:12:55 2021] [notice] Digest: done
+[Thu Jul 01 21:12:55 2021] [notice] FastCGI: process manager initialized (pid 41721)
+[Thu Jul 01 21:12:55 2021] [notice] Apache/2.2.34 (Unix) mod_wsgi/3.5 Python/2.7.13 PHP/7.4.2 mod_ssl/2.2.34 OpenSSL/1.0.2o DAV/2 mod_fastcgi/mod_fastcgi-SNAP-0910052141 mod_perl/2.0.11 Perl/v5.24.0 configured -- resuming normal operations
+[Thu Jul 01 21:14:15 2021] [error] [client ::1] client denied by server configuration: /Applications/MAMP/htdocs/.DS_Store
+[Thu Jul 01 21:15:08 2021] [error] [client ::1] client denied by server configuration: /Applications/MAMP/htdocs/wp_bk/wp-cron.php, referer: http://localhost:8888/wp_bk/wp-cron.php?doing_wp_cron=1625141708.6711909770965576171875
+[Thu Jul 01 21:16:25 2021] [error] [client ::1] client denied by server configuration: /Applications/MAMP/htdocs/wp_bk/wp-cron.php, referer: http://localhost:8888/wp_bk/wp-cron.php?doing_wp_cron=1625141785.8745369911193847656250
